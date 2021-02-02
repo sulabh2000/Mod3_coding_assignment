@@ -1,0 +1,64 @@
+body {
+  font-size: 16px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: grey;
+  border: 5px solid black;
+  border-radius: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  margin-bottom: 25px;
+}
+
+.navbar-brand h1 {
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+
+#nav-list a {
+  color: black;
+  text-align: center;
+  border: 2px solid black;
+}
+
+section {
+  padding: 10px;
+  background-color: grey;
+  border: 25px solid white;
+}
+
+h2 {
+  color: black;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+#main-content {
+  margin-top: 50px;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+
+
